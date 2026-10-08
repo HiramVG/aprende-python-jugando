@@ -1,3 +1,5 @@
+![Aprende Python Jugando](banner.jpg)
+
 # Hola! Estoy aprendiendo Python y bueno este repo lo hice por 2 razones principalmente
 
 **1.** Creo que para usuarios nuevos que quieran aprender a programar son excelentes como primeros proyectos. Por lo simples que son es muy fácil leer y entender el contenido, así que siéntete libre de modificar y usar a tu gusto, que de eso se trata.
